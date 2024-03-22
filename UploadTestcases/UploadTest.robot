@@ -10,7 +10,7 @@ Resource               ../UploadCommonFiles/UploadCommon.robot
 *** Test Cases ***
 Creating a Upload File
     [Tags]             UploadFile
-    [Documentation]    Uploading a File
+    [Documentation]    Uploading a File TestCase
     Appstate           Home
     LaunchApp          Sales
     ClickText          Accounts
