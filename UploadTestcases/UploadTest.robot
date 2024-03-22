@@ -5,7 +5,7 @@ Library                String
 Library                DateTime
 Suite Setup            Open Browser                about:blank                 chrome
 Suite Teardown         Close All Browsers
-Resource               ../OpportunitiesCommonResources/OpportunitiesComResou.robot
+Resource               ../UploadCommonFiles/UploadCommon.robot
 
 *** Test Cases ***
 Creating a New Opportunity
