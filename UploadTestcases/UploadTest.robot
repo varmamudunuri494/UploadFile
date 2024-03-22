@@ -16,4 +16,4 @@ Creating a Upload File
     ClickText          Accounts
     ClickText          Accidency Bulk Company
     VerifyText         Notes & Attachments (0)
-    
+    ClickText          Upload Files
