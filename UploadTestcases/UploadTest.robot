@@ -8,9 +8,9 @@ Suite Teardown         Close All Browsers
 Resource               ../UploadCommonFiles/UploadCommon.robot
 
 *** Test Cases ***
-Creating a New Opportunity
-    [Tags]             Opportunities
-    [Documentation]    Creating a new Opportunities
+Creating a Upload File
+    [Tags]             UploadFile
+    [Documentation]    Uploading a File
     Appstate           Home
     LaunchApp          Sales
     ClickText          Accounts
