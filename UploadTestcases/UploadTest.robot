@@ -15,5 +15,8 @@ Creating a Upload File
     LaunchApp          Sales
     ClickText          Accounts
     ClickText          Accidency Bulk Company
-    #VerifyText         Notes & Attachments (0)
+    #VerifyText        Notes & Attachments (0)
     ClickText          Upload Files
+    UseModal           On
+    ClickText          Done
+    UseModal           Off
