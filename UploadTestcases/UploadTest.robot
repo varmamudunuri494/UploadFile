@@ -17,6 +17,6 @@ Creating a Upload File
     ClickText          Accidency Bulk Company
     #VerifyText        Notes & Attachments (0)
     ClickText          Upload Files
-    UseModal           On
-    ClickText          Done
-    UseModal           Off
+    #UseModal           On
+    #ClickText          Done
+    #UseModal           Off
